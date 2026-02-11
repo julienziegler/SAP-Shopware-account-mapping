@@ -49,8 +49,8 @@ Beispiel:
 ### 1.4 Passwort (Pflicht) – Initialpasswort für Bestandskunden
 Für importierte Bestandskunden wird ein initiales Passwort gesetzt:
 
-- **Initialpasswort:** `PLZ + KUNNR`
-- Beispiel: PLZ `76189`, KUNNR `2460001234` → `761892460001234`
+- **Initialpasswort:** `KUNNR + PLZ`
+- Beispiel: PLZ `76189`, KUNNR `2460001234` → `246000123476189`
 
 Wichtig:
 - Dieses Passwort ist **nur für den ersten Login** gedacht.
