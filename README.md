@@ -1,0 +1,1 @@
+# SAP-Shopware-account-mapping
